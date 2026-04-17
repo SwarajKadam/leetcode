@@ -6,12 +6,12 @@ https://leetcode.com/problems/contains-duplicate/description/
 - Output:  bool
 - Goal in 1 line: if duplicate in nums return true else false
 
-## 🧠 Intuition (Very Important)
+## Intuition (Very Important)
 We need to check if any number appears more than once.
 Brute force would be O(n^2), so we optimize using hashing.
 
 
-## ⚙️ Approach
+## Approach
 Step-by-step:
 1. brute for - used nested for loop but - Time Complexity: O(n²) and Space Complexity: O(1)
 2. class Solution:
@@ -37,8 +37,8 @@ Step-by-step:
         Time Complexity: O(n) and Space Complexity: O(n)
             
 
-## 🧠 Pattern Used
+## Pattern Used
 Hashing
 
-## 🧠 Key Takeaways
+## Key Takeaways
 If problem asks for duplicate detection → think SET first
