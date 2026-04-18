@@ -15,9 +15,9 @@
 ## Template Code
 
 ### Using Set
-```python
 seen = set()
 for x in arr:
     if x in seen:
         return True
     seen.add(x)
+### comparing dicts or sorting and comparing arrays
