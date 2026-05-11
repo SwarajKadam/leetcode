@@ -1,5 +1,5 @@
 # Gas Station — Notes
-
+## Greedy Algo
 ## Problem Understanding
 
 We are given:
